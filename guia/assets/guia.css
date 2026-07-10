@@ -109,6 +109,7 @@ a:focus-visible,.btn:focus-visible{outline:2px solid var(--rose);outline-offset:
 .inter{min-height:64vh;min-height:64svh;display:flex;align-items:center;text-align:center;padding:80px 0}
 .inter .eyebrow{display:block;margin-bottom:20px}
 .inter p{font-family:var(--title);font-size:clamp(23px,6vw,34px);line-height:1.45;color:var(--char)}
+.inter.ato{min-height:44vh;min-height:44svh;padding:64px 0} /* marcador de ato em guias com dois tempos */
 
 /* ===== etapas: capítulos scroll-telling (assinatura da página) ===== */
 .etapa{position:relative;z-index:1}
